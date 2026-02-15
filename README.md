@@ -4,7 +4,7 @@
 - [딥러닝이 주목받은 이유](https://youtu.be/fVIRvk0XGiM)
 - [자연어 처리의 발전과 LLM의 등장](https://youtu.be/NCok3ZEK1Jk)
 - [LLM의 학습방식, 사전학습과 미세조정](https://youtu.be/Ggq_Gq4MgnI)
-- LLM 핵심 원리와 양면성
+- [LLM 핵심 원리와 양면성](https://youtu.be/lqJGoZeqB3A)
 - LLM의 자원 소비와 현실적인 비용 구조
 - 실전 데모형 프롬프트 예시
 - 지도학습
