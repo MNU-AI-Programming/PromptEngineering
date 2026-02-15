@@ -5,8 +5,8 @@
 - [자연어 처리의 발전과 LLM의 등장](https://youtu.be/NCok3ZEK1Jk)
 - [LLM의 학습방식, 사전학습과 미세조정](https://youtu.be/Ggq_Gq4MgnI)
 - [LLM 핵심 원리와 양면성](https://youtu.be/lqJGoZeqB3A)
-- LLM의 자원 소비와 현실적인 비용 구조
-- 실전 데모형 프롬프트 예시
+- [LLM의 자원 소비와 현실적인 비용 구조](https://youtu.be/HFavf41kEAk)
+- [실전 데모형 프롬프트 예시](https://youtu.be/2u0wzVT9Z-M)
 - 지도학습
 - 비지도학습
 - 강화학습
