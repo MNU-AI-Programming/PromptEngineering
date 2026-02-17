@@ -1,5 +1,10 @@
 # PromptEngineering
 
+<a href="https://discord.gg/bZ42ZFaSEm">
+    <img src="https://img.shields.io/badge/Discord-Community-orange" alt="Community" />
+</a>
+
+
 ## 1. 교과목 개요
 
 * **과목명:** 프롬프트 엔지니어링
