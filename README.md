@@ -145,7 +145,8 @@
   - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350) [2021] (Arxiv) 
   - [Prefix-Tuning: Optimizing Continuous prompts for Generation](https://arxiv.org/abs/2101.00190) [2021] (Arxiv) 
 
-  
+- **Agent**:
+  - [Intelligent AI Delegation](https://arxiv.org/pdf/2602.11865) [2026] (Arxiv) 
 
 - **Reasoning and In-Context Learning**:
 
