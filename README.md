@@ -115,6 +115,9 @@
 
 ## Papers
 
+- ## **최신 Survey**:
+  - [A comprehensive taxonomy of prompt engineering techniques for large language models](https://link.springer.com/article/10.1007/s11704-025-50058-z?utm_source=chatgpt.com) [2026] (Springer Nature)
+
 - **Prompt Engineering Techniques**:
 
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608) [2024] (Arxiv)
