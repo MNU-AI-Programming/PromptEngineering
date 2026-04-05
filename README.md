@@ -113,6 +113,9 @@
 - AI 에이전트의 시대
 - 인공지능의 편향과 책임 그리고 저작권 이슈
 
+## Letcture notes
+- [최종명 교수님의 프롬프트 엔지니어링 강의자료](https://docs.google.com/presentation/d/1vXRxXyclI9ZHKhzyl0tpOoC6AyDMpVf_-bQAxIN9rN8/edit?slide=id.g20e57970037_0_75#slide=id.g20e57970037_0_75)
+
 ## Papers
 
 - ## **최신 Survey**:
